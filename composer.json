@@ -1,7 +1,7 @@
 {
     "name": "hlck/think-addons",
     "description": "The ThinkPHP8 Addons Package",
-    "version":"1.0.3",
+    "version":"1.0.4",
     "license": "Apache-2.0",
     "authors": [
         {
